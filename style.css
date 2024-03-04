@@ -1,7 +1,7 @@
-*{
- margin: 0%;
-}
 
+body{
+    margin-top: 0%;
+}
 .container{
     height: 80px;
     background-color: rgb(42, 125, 209);
@@ -10,6 +10,7 @@
 }
 #h1{
     font-size: 290%;
+    margin-bottom: 0%;
 }
 .img{
 height: 60px;
@@ -17,6 +18,7 @@ text-align: center;
 }
 #p{
     margin-top: 0%;
+    margin-bottom: 0%;
     color: rgb(92, 92, 92);
     float:left; display:block;
 }
@@ -39,11 +41,35 @@ text-align: center;
     padding-bottom: 12px;
     text-align: left;
     background-color: #1c2eb9;
-    color: white;
+    color: rgb(214, 185, 185);
   }
   #table td{
     padding-top: 6px;
     padding-bottom: 6px;
   }
+  .contenitore{
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+  }
+  .foto{
+    background-image: url(./img/monitor.jpg);
+  }
+  .foto{
+    font-size: 120%;
+    color: aliceblue;
+    height: 19vh;
+    background-size:100%;
+    background-image: url(./img/monitor.jpg);
+    width: 13%;
+  }
 
+  .foto1{
+    
+    font-size: 120%;
+    color: aliceblue;
+    height: 19vh;
+    background-size:100%;
+    background-image: url(./img/graph.jpg);
+    width: 13%;
+  }
 
