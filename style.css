@@ -27,3 +27,23 @@ text-align: center;
 .titolo{
     margin-bottom: 0%;
 }
+#table{
+    border-collapse: collapse;
+  width: 100%;
+}
+#table tr:nth-child(even){
+  background-color: #659fb5;}
+
+#table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #1c2eb9;
+    color: white;
+  }
+  #table td{
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+
+
