@@ -1,10 +1,17 @@
 
 body{
     margin-top: 0%;
-}
-.container{
     margin-left: 0%;
     margin-right: 0%;
+}
+.margin{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.container{
+    
+    
     height: 80px;
     background-color: rgb(42, 125, 209);
     background-image:url(/img/pattern.png);
@@ -15,8 +22,11 @@ body{
     margin-bottom: 0%;
 }
 .img{
-height: 60px;
-text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1%;
+    height: 60px;
+    text-align: center;
 }
 #p{
     margin-top: 0%;
