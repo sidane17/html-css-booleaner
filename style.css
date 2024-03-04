@@ -1,0 +1,29 @@
+*{
+ margin: 0%;
+}
+
+.container{
+    height: 80px;
+    background-color: rgb(42, 125, 209);
+    background-image:url(/img/pattern.png);
+    background-size: 18%;
+}
+#h1{
+    font-size: 290%;
+}
+.img{
+height: 60px;
+text-align: center;
+}
+#p{
+    margin-top: 0%;
+    color: rgb(92, 92, 92);
+    float:left; display:block;
+}
+#p2{
+    color: rgb(29, 181, 201);
+    
+}
+.titolo{
+    margin-bottom: 0%;
+}
